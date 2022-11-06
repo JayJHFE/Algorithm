@@ -152,7 +152,6 @@ bigNum("87136");
 
 
 // 정답 풀이
-// ㅁㅁㄴㅇㄹ
 function bigNum(str) {
 	let biggest = Number(str[0]);
   for(let i = 0; i < str.length; i++) {
